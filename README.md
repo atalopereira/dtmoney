@@ -8,7 +8,7 @@ This project was developed in the course of rocketseat.
 
 <img alt="classification" title="classification" src=".github/cadastro.png" />
 
-## ✨ Tecnologies
+## ✨ Technologies
 
 - React
 - Typescript
